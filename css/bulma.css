@@ -283,6 +283,7 @@ textarea {
 
 html {
   box-sizing: border-box;
+  scroll-behavior:none;
 }
 
 *, *::before, *::after {
